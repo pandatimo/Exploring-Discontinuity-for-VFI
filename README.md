@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation of our paper:
 
-> **Exploring Discontinuity for Video Frame Interpolation**, *CVPR'23*\
+> **Exploring Discontinuity for Video Frame Interpolation**, *CVPR'23 **(Highlight)** *\
 > [Sangjin Lee](https://github.com/pandatimo), Hyeongmin Lee, Chajin Shin, Hanbin Son, Sangyoun Lee
 
 ## Abstract
