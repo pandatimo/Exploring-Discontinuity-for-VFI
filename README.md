@@ -17,6 +17,15 @@ Video frame interpolation (VFI) is the task that synthesizes the intermediate fr
 We construct a new test set called Graphic Discontinuous Motion (GDM) dataset which consists of high resolution videos of game scenes with abundant discontinuous motions. The dataset can be downloaded at 
 
 ## Useage
+
+## Note
+Code, Dataset and models are only available for non-commercial research purposes.
+
+If you have any questions, please feel free to contact me :)
+```
+sglee97@yonsei.ac.kr
+```
+
 ```
 @article{lee2022beyond,
   title={Beyond natural motion: exploring discontinuity for video frame interpolation},
