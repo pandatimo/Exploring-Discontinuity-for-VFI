@@ -7,6 +7,7 @@ This is the official PyTorch implementation of our paper:
 > IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023, **Highlight***
 
 ## Overview
+![overview](./imgs/overview.png)
 
 
 ## Abstract
