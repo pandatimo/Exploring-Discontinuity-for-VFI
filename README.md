@@ -19,7 +19,7 @@ We construct a new test set called Graphic Discontinuous Motion (GDM) dataset wh
 ## Useage
 
 ## Note
-Code, Dataset and models are only available for non-commercial research purposes.
+Code, Dataset and models are **only available for non-commercial research purposes.**
 
 If you have any questions, please feel free to contact me :)
 ```
