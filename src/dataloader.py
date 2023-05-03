@@ -245,5 +245,4 @@ class VimeoSepTuplet(Dataset):
         if self.training:
             return len(self.trainlist)
         else:
-            return len(self.testlist)
-          
+            return len(self.testlist)          
