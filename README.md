@@ -3,7 +3,7 @@
 This is the official PyTorch implementation of our paper:
 
 > **Exploring Discontinuity for Video Frame Interpolation** \
-> [Sangjin Lee](https://github.com/pandatimo), [Hyeongmin Lee](https://github.com/HyeongminLEE), [Chajin Shin](https://github.com/ChajinShin), Hanbin Son, Sangyoun Lee *\
+> [Sangjin Lee&#42;](https://github.com/pandatimo), [Hyeongmin Lee&#42;](https://github.com/HyeongminLEE), [Chajin Shin](https://github.com/ChajinShin), Hanbin Son, Sangyoun Lee (&#42;Equal Contribution)*\
 > IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023, **Highlight***
 
 [[Paper(Arxiv)](https://arxiv.org/abs/2202.07291)]
