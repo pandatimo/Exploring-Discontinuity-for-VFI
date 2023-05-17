@@ -28,10 +28,12 @@ sglee97@yonsei.ac.kr
 
 ## Citation
 ```
-@article{lee2022beyond,
-  title={Beyond natural motion: exploring discontinuity for video frame interpolation},
-  author={Lee, Sangjin and Lee, Hyeongmin and Shin, Chajin and Son, Hanbin and Lee, Sangyoun},
-  journal={arXiv preprint arXiv:2202.07291},
-  year={2022}
+@InProceedings{Lee_2023_CVPR,
+    author    = {Lee, Sangjin and Lee, Hyeongmin and Shin, Chajin and Son, Hanbin and Lee, Sangyoun},
+    title     = {Exploring Discontinuity for Video Frame Interpolation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {9791-9800}
 }
 ```
