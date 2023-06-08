@@ -6,7 +6,7 @@ This is the official PyTorch implementation of our paper:
 > [Sangjin Lee&#42;](https://github.com/pandatimo), [Hyeongmin Lee&#42;](https://github.com/HyeongminLEE), [Chajin Shin](https://github.com/ChajinShin), Hanbin Son, Sangyoun Lee (&#42;Equal Contribution)*\
 > IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023, **Highlight***
 
-[[Paper(Arxiv)](https://arxiv.org/abs/2202.07291)]
+[[Paper(Arxiv)](https://arxiv.org/abs/2202.07291)] [[Paper(CVPR)](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Exploring_Discontinuity_for_Video_Frame_Interpolation_CVPR_2023_paper.html)]
 ## Overview
 ![overview](./imgs/overview.png)
 
