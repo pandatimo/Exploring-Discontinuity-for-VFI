@@ -18,7 +18,10 @@ We construct a new test set called Graphic Discontinuous Motion (GDM) dataset wh
 
 ## Evaluation
 1. Prepared the dataset for evaluation
-2. Download the [pretrained model](https://drive.google.com/file/d/1E313xSScWcLkTG3YzE6rhgcxLg4NOYrf/view?usp=sharing) and put the ```checkpoints``` folder in ```src```.
+    - [Vimeo90K Septuplet](http://data.csail.mit.edu/tofu/dataset/vimeo_septuplet.zip)
+    - [DAVIS](https://data.vision.ee.ethz.ch/csergi/share/davis/DAVIS-2017-test-dev-Full-Resolution.zip)
+2. Download the [pretrained model](https://drive.google.com/file/d/1E313xSScWcLkTG3YzE6rhgcxLg4NOYrf/view?usp=sharing) and put the ```checkpoints``` folder under ```/src```.
+
 For evaluation, you can use the command below.
 ```bash
 cd src
