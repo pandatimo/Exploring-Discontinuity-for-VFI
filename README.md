@@ -16,8 +16,10 @@ We propose three techniques that can make the existing deep learning-based VFI a
 ## Dataset
 We construct a new test set called Graphic Discontinuous Motion (GDM) dataset which consists of high resolution videos of game scenes with abundant discontinuous motions. The dataset can be downloaded at: [[Google Drive](https://drive.google.com/file/d/1CbeGLPq91aaAun2ZvHIigJ9S_94bztMG/view?usp=sharing)]
 
-## Useage
-For evaluation, you can use the command line below.
+## Evaluation
+1. Prepared the dataset for evaluation
+2. Download the [pretrained model](https://drive.google.com/file/d/1E313xSScWcLkTG3YzE6rhgcxLg4NOYrf/view?usp=sharing) and put the ```checkpoints``` folder in ```src```.
+For evaluation, you can use the command below.
 ```bash
 cd src
 python test.py --gpu [gpu_id] --model ['AdaCoF' or 'CAIN' or 'VFIT'] --loss [True or False]
